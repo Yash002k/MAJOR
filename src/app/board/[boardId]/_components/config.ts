@@ -1,0 +1,1 @@
+export const apikey = "sk-proj-fjB14w3xQlgrZ5Tkk3sYT3BlbkFJdrpS5iCjwFv31EZTrwln";
