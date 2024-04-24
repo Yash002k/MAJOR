@@ -438,7 +438,7 @@ export const Canvas = ({
         <main
             className="h-full w-full relative bg-neutral-100 touch-none"
         >
-            {/* <Info boardId="{boardId}" /> */}
+            <Info boardId="{boardId}" />
             <Participants />
             <ChatBotAi/>
             <Toolbar
